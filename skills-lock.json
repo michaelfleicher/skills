@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "aeo": {
+      "source": "michaelfleicher/skills",
+      "sourceType": "github",
+      "skillPath": "skills/SEO/aeo/SKILL.md",
+      "computedHash": "96e41e76b678abdee0c2ef27417d51f793b85db9fd96a0b94694dfeede85534c"
+    }
+  }
+}
